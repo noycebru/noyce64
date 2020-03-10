@@ -4,7 +4,7 @@ this is open source, please just credit me on your build.
 
 join the discord if you have any questions: https://discord.gg/eST3Dvk or catch me live on twitch @noycebru
 
-Parts list is coming soon.
+Parts list
 
 Audio amp: WINGONEER Class AB stereo headphone driver audio module TDA1308
 https://www.amazon.com/dp/B077XHFDNS/ref=cm_sw_r_tw_dp_U_x_JsWzEbG49G4BG
